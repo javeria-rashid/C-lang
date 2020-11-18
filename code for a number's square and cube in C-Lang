@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <conio.h>
+void main()
+int i;
+{
+  for(i=o; i<=10; i++)
+  {
+  int num=i;
+  int sq=i*i;
+  int cu=i*i*i;
+  printf("%d\t%d\t%d", num, sq, cu);
+  }
+}
